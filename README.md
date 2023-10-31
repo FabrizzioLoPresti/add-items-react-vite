@@ -1,6 +1,6 @@
 # Project Information
 
-Github Repo: [Prueba Tecnica Trainee-Jr]()
+Github Repo: [Prueba Tecnica Trainee-Jr](https://github.com/FabrizzioLoPresti/add-items-react-vite)
 
 Youtube Video: [PRUEBA TÉCNICA de React para Junior y Trainee](https://www.youtube.com/watch?v=JW_x-Tq5Vt0)
 
